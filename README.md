@@ -1,4 +1,4 @@
-# MDEKit
+# MDE Kit
 <!-- TOC -->
 ## Objectives
 
