@@ -1947,7 +1947,7 @@ Write-Host "=======================================" -ForegroundColor Green
 Write-Host "=======================================" -ForegroundColor Yellow
 Write-Host "MDE Kit's objective is to help automate and empower your investigation, detection, prevention, and response capabilities leveraging the MDE API."
 Write-Host "Feel free to comment on the blog and/or connect with me on LinkedIn if you have any questions"
-Write-Host "Learn more about this project at https://securityoccupied.com/2023/07/11/mde-kit-a-powershell-module-for-microsoft-defender-for-endpoint"
+Write-Host "Learn more about this project at https://securityoccupied.com/2023/10/10/mde-kit-a-powershell-module-for-microsoft-defender-for-endpoint"
 Write-Host "https://www.linkedin.com/in/jeffrey-michelmore/"
 Write-Host "`r"
 Write-Host "For detailed help with each of the functions of this module, type `"Get-Help <Insert function name>`""
